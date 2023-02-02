@@ -1,1 +1,1 @@
-I learned a lot
+I learned a lot: 1. how to create a repository locally, 2. how to create a repositary via UI, 3. how to create branches, 4. how to merge branches, 5. how to commit files, 6. how to push changes from local to remote repositary, 7. how to pull changes from remote to local repositary
