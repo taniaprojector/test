@@ -9,4 +9,4 @@ result = v1.split('<con:targetType>'); #це поділ на 2 елементи 
 print(result[1]); # це вивести другий елемент масива, памятаємо, що рахунок завжди 
 print(result[0][:7]); # вивести перші 7 символів другого елемента масива, що і є нашою відповіддю
 fin_result = result[0][:7];
-print('Result of the second HW is -' + fin_result); 
+print('Result of the second HW is - ' + fin_result); 
