@@ -8,5 +8,5 @@ v1 = property_transfer_xml = """
 result = v1.split('<con:targetType>'); #це поділ на 2 елементи за назвою тега
 print(result[1]); # це вивести другий елемент масива, памятаємо, що рахунок завжди 
 print(result[0][:7]); # вивести перші 7 символів другого елемента масива, що і є нашою відповіддю
-fin_result = splited[0][:7];
+fin_result = result[0][:7];
 print('Result of the second HW is -' + fin_result); 
